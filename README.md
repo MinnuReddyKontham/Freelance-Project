@@ -1,46 +1,44 @@
-# 🌿 Natural Health Products E-Commerce Website 🛒
+# 📸 Photography Portfolio Website
 
-A clean and responsive frontend e-commerce website for showcasing **natural health products**. Built as a freelance project to help a local business promote wellness and receive offline orders through direct contact.
+A fully responsive **photography portfolio** website built using **HTML** and **CSS**. The website showcases key sections such as **About**, **Features**, **Gallery**, and **Contact** — ideal for presenting a photographer’s work. The project is deployed live on **Netlify**.
 
----
+## 🌐 Live Demo
 
-## 🧾 Project Purpose
+🔗 [View Live Website](https://regal-cranachan-85bd4f.netlify.app/)
 
-This website serves as a **digital product catalog** that the shop owner can share with customers. It displays products with images, descriptions, and pricing, and includes a contact section for placing orders directly via phone, email, or WhatsApp.
+## 📁 Project Structure
 
----
 
-## 🌟 Features
+## ✨ Features
 
-- ✅ Product cards with images, prices, and details
-- 🔍 Category-based filtering (e.g., oils, powders, capsules)
-- 📞 Contact section for offline ordering (phone, email, WhatsApp)
-- 🌐 Clean, mobile-responsive layout
-- 🚫 No backend or online payment integration – offline orders only
+- Clean and elegant design
+- Responsive layout for all devices
+- Scrollable and interactive gallery section
+- Structured About and Features sections
+- Contact form layout (static)
+- Deployed using Netlify
 
----
+## 🛠️ Technologies Used
 
-## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- Responsive Web Design
+- Netlify (for hosting)
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- *(Optional: Bootstrap / Tailwind CSS for styling)*
+## 🧭 Sections Overview
 
----
+- **Home** – Hero section with a welcoming tagline
+- **About** – Information about the photographer or studio
+- **Features** – List of services or specialties
+- **Gallery** – Grid-based layout to showcase photos
+- **Contact** – Form and contact details (non-functional/static)
 
-## 📸 Live Demo
+## 🚀 Getting Started Locally
 
-🔗 [Click here to view the live site](https://your-netlify-or-vercel-link.com)
+To run this project on your local machine:
 
----
-
-## 🛠️ Setup Instructions
-
-# Clone the repository
-git clone https://github.com/MinnuReddyKontham/Freelance-Project.git
-
-# Open the folder in your code editor
-cd naturals
-
-# Open index.html in your browser
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/photography-portfolio.git
+2. Open the index.html file in your browser
+3. reach me out to make any changes.
