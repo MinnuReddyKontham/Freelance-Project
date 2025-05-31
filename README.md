@@ -39,6 +39,6 @@ To run this project on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/photography-portfolio.git
-2. Open the index.html file in your browser
+   git clone https://github.com/MinnuReddyKontham/Freelance-Project.git
+2. Open the [index.html] file in your browser
 3. reach me out to make any changes.
